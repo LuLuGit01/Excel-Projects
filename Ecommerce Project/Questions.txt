@@ -1,0 +1,8 @@
+1) What's the trend in the last 13 weeks?
+2) How do our customers like to buy?
+3) How many products do our customers buy?
+4) Which products are the most popular?
+5) What's the overall gender split?
+6) Where do our customers live?
+7) How long do we take to ship the orders?
+8) How happy are our customers?
